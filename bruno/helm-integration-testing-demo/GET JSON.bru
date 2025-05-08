@@ -5,7 +5,11 @@ meta {
 }
 
 get {
-  url: http://127.0.0.1:32775/
+  url: http://172.17.0.1/data.json
   body: none
   auth: inherit
+}
+
+headers {
+  Host: demo-chart.local
 }
