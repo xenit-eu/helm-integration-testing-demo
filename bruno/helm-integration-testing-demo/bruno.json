@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "helm-integration-testing-demo",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
